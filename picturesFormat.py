@@ -14,3 +14,8 @@ if __name__ == '__main__':
     print_hi('error')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+<<<<<<< HEAD
+# IT'S BLACK ADAMIN' TIME
+=======
+# IT'S MORBIN' TIME
+>>>>>>> main
